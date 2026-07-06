@@ -1,0 +1,20 @@
+[
+  {
+    "ticker": "NVDA",
+    "thesis": "I think NVDA will keep growing because AI demand is huge and hyperscalers continue spending on accelerators.",
+    "horizon": "1 year",
+    "risk_tolerance": "Moderate"
+  },
+  {
+    "ticker": "TSLA",
+    "thesis": "I believe Tesla can continue growing because EV adoption remains strong and robotics could become a major business.",
+    "horizon": "3 years",
+    "risk_tolerance": "Aggressive"
+  },
+  {
+    "ticker": "PLTR",
+    "thesis": "I think Palantir will benefit from defense modernization and government AI spending over the next several years.",
+    "horizon": "3 years",
+    "risk_tolerance": "Moderate"
+  }
+]
